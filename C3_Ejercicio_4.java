@@ -1,6 +1,4 @@
 import javax.swing.JOptionPane;
-
-
 public class C3_Ejercicio_4 {
     public static void main(String[] args) {
 
