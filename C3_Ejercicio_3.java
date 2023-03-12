@@ -3,7 +3,7 @@ public class C3_Ejercicio_3 {
     public static void main(String[] args) {
 
 /*
-        Los valores de los mayores a "x=33" son: {96,83,1892,154,54} 
+        Los Vectores[i] mayores a "x=33" son: {96,83,1892,154,54} 
         y la suma de los mismos da como resultado -> "2279"
 */
 
