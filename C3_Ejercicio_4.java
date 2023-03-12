@@ -10,8 +10,8 @@ public class C3_Ejercicio_4 {
         String Frase = JOptionPane.showInputDialog("Introduzca su frase a ser cifrada (sin acentos, ni ñ)");
         String desplazamiento = JOptionPane.showInputDialog("introduzca la cantidad de desplazamiento del cifrado");
     
-    /*  Recorriendo la frase para traducirla a ASCII y para luego
-        desplazar de lugar en su forma entera a la letra y retraducirla codificada  */
+    /*  Recorriendo la frase para traducirla a ASCII y luego
+        desplazarla de lugar en su forma entera a la letra y retraducirla codificada  */
 
         for (int i = 0; i < Frase.length(); i++){
             int Letras = (int)(Frase.charAt(i));
